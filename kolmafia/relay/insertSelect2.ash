@@ -18,7 +18,7 @@ string insertSelect2(string page,string options) {
 	int count;
 
 	//only insert things once
-	if (out.contains_text("jQuery_3_7_1('.searchable-select').select2()"))
+	if (out.contains_text("jQuery_3_7_1('.searchable-select').select2("))
 		return out;
 
 	//insert class into existing class in select
