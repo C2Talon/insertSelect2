@@ -1,6 +1,8 @@
 # insertSelect2
 
-Function for KoLmafia to make `<select>` HTML elements searchable on a given page. It does this by reading in a given page, then outputting the page modified to make use of [select2](https://select2.org/) to facilitate that.
+Function for KoLmafia scripts to make `<select>` HTML elements searchable on a given page. It does this by reading in a given page, then outputting the page modified to make use of [select2](https://select2.org/) to facilitate that.
+
+A repo with some already-made relay override scripts making use of this for a few pages can be found here: http://github.com/C2Talon/insertSelect2-relays/
 
 ## Installation
 
